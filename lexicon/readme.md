@@ -1,0 +1,2 @@
+
+The file refined_ngram_dict.csv contains a refined lexicon of n-grams. To get this lexicon we took the set of n-grams of length 1-4 that were contained in our labelled data and for each n-gram calculated the proportion of tweets containing it that were considered as hate speech by the human coders. We then manually went through the lexicon to remove irrelevant terms.
