@@ -65,7 +65,6 @@ Shaking My Head	SMH
 Bye For Now	BFN
 In My Opinion	IMO
 In My Honest Opinion	IMHO
-Best Friend
 Boyfriend	BF
 Best Friend Forever	BFF
 Girlfriend	GF
@@ -141,5 +140,3 @@ tomorrow	2mro
 tomorrow	2mo 
 tomorrow	tmr
 adieu	+u
-
-

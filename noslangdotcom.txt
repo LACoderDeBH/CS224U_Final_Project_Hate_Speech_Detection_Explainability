@@ -4705,7 +4705,6 @@ tyto :take your top off
 tyty :thank you thank you
 tyvm :Thank You Very Much
 tyvvm :thank you very very much
-# A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 Muh :My
 u :you
 u iz a 304 :you is a hoe
@@ -5517,7 +5516,3 @@ zoot :woohoo
 zot :Zero Tolerance
 zt :zoo tycoon
 zup :what's up?
-
-
-
-
