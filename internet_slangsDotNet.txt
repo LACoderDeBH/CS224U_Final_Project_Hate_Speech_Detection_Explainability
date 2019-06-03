@@ -7804,9 +7804,3 @@ ZTA == Zeta Tau Alpha
 ZUP == What's up?
 ZUT == Damn it (French)
 ZZZ == Sleepy, bored or tired
-
-
-
-
-
-

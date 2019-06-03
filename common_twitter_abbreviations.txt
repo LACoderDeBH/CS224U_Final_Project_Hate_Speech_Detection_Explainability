@@ -95,7 +95,7 @@ OOMF = One of my friends/followers
 ORLY = Oh, really?
 PLMK = Please let me know
 PNP = Party and Play drugs and sex
-POIDH - Pictures, or it didn't happen
+POIDH = Pictures, or it didn't happen
 QOTD = quote of the day
 RE = In reply to, in regards to
 RLRT = Real-life re-tweet 

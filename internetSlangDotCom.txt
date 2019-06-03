@@ -368,8 +368,7 @@ ACT	SAT type test
 ACTA	Anti-Counterfeiting Trade Agreement
 ACU	Army Combat Uniform
 AD	Anno Domini (in the year of our Lord)
-AD HOC	For the specific purpose
-Improvised, impromptu
+AD HOC	Improvised, impromptu
 ADAD	Another Day Another Dollar
 ADD	Attention Deficit Disorder
 ADDY	Address
@@ -416,8 +415,7 @@ AGGY	Aggitated
 AGH	Ain't Gonna Happen
 AGM	Annual General Meeting
 AGP	Accelerated Graphics Port
-AGRO	Hostile, angry
-Aggravation, trouble
+AGRO	Hostile, angry, Aggravation, trouble
 AGT	America's Got Talent (TV show)
 AGW	All Going Well
 AHA	Expression of discovery or realization
@@ -425,7 +423,6 @@ AHEM	Throat clearing sound
 AHO	Idiot (Japanese)
 AHT	Out
 AI	Artificial Intelligence
-As If
 AIB	Am I Boverd?
 AIDS	Acquired Immune Deficiency Syndrome
 AIGF	All In Good Fun
@@ -484,10 +481,8 @@ ALT	Alternative character in RPG
 ALU	Arithmetic Logic Unit
 ALV	Asta La Vista, goodbye
 ALWP	Actual Laughter Was Produced
-AM	Ante Meridiem (before midday)
-Amplitude Modulation (radio signal)
+AM	Morning
 AMA	Ask Me Anything
-Against Medical Advice
 AMAA	Ask Me Almost Anything
 AMAP	As Much/Many As Possible
 AMC	American Motors Corportation
@@ -501,7 +496,6 @@ AMN	Any Minute Now
 AMOF	As a Matter of Fact
 AMOG	Alpha Male Of Group
 AMP	Amplifier
-Ampere
 AMPED	Excited, fired up
 AMT	Alpha-Methyltryptamine
 AMTRAK	American passenger railroad corporation
@@ -527,15 +521,12 @@ AO	Adults Only
 AOB	Any Other Business
 AOD	All Of Day
 AOE	Area Of Effect
-AOK	Age of Kings (game)
-All OK
+AOK	All OK
 AOL	American Online
 AOM	Age of Mythology (game)
 AON	All Or Nothing
-As Of Now
 AOS	Ahead Of Schedule
 AOT	As Opposed To
-Among Other Things
 AOTA	All Of The Above
 AOTS	Attack of the Show (TV show)
 AOW	All Out War
@@ -596,8 +587,7 @@ ASO	I see
 ASP	At Some Point
 ASPCA	American Society for the Prevention of Cruelty to Animals
 AT&T	American Telephone & Telegraph
-ATA	Ait To Air
-Actual Time of Arrival
+ATA	Actual Time of Arrival
 ATAP	Any Time, Any Place
 ATB	All The Best
 ATC	Air Traffic Control
@@ -609,15 +599,13 @@ ATH	All Time High
 ATI	Array Technology Inc. (graphics card maker)
 ATK	Attack
 ATL	Atlanta, Georgia
-ATM	At The Moment
-Automated Teller Machine (cash machine)
+ATM	At The Moment, Automated Teller Machine (cash machine)
 ATMO	According To My Opinion
 ATN	Any Time Now
 ATOY	Always Thinking of you
 ATQ	Answer The Question
 ATST	At The Same Time
-ATT	At This Time
-All The Time
+ATT	At This Time, All The Time
 ATTN	Attention
 ATTT	Ain't That The Truth
 ATTY	Atomizer from electronic cigarette
@@ -625,19 +613,15 @@ ATV	All Terrain Vehicle
 ATVB	All The Very Best
 ATW	All The Way
 ATWA	Air, Trees, Water, Animals 
-All The Way Alive
 ATX	Austin, Texas
 ATYS	Anything You Say
 AU	Alternate Universe
 AUD	Australian Dollar
 AUO	I don't know
-AUP	Another Useless Post
-Acceptable Use Policy
+AUP	Another Useless Post, Acceptable Use Policy
 AUS	Are You Serious?
 AUSSIE	A Person From Australia
-AV	Anti-Virus
-Audio/Video
-Adult Video
+AV	Audio/Video
 AVA	Angels and Airwaves (Band)
 AVG	Average
 AVGN	Angry Video Game Nerd
@@ -683,21 +667,17 @@ AYW	As You Wish
 AYYO	Hi, hello
 AZN	Asian
 B	Bro
-B&	Banned
-Band
+B&	Banned, Band
 B&B	Bed & Breakfast
-B&D	Bondage And Discipline
-Bondage And Domination
+B&D	Bondage And Domination
 B&E	Breaking And Entering
 B&M	Bricks and Mortar
 B&W	Black and White
 B)	Smiley with sunglasses
 B-DAY	Birthday
 B/C	Because
-B/W	Between
-Black and White
-B2B	Back To Back
-Business To Business
+B/W	Between, Black and White
+B2B	Business To Business
 B2C	Business To Consumer
 B2W	Back To Work
 B4	Before
@@ -708,9 +688,7 @@ B4YKI	Before You Know It
 B7	Banned (B7=B&=Band)
 BAAS	Boss
 BABYSITTING	Holding the weed too long
-BAC	Back At Computer
-Blood Alcohol Content
-By Any Chance
+BAC	Back At Computer, Blood Alcohol Content, By Any Chance
 BACS	Bankers Automated Clearing System
 BAD	Good
 BADASS	Cool, confident person
@@ -730,17 +708,13 @@ BAKA	Fool, idiot
 BAKE	Smoke marijuana
 BAKED	Stoned, Wasted
 BALLER	Successful ball player
-BALLIN	Playing basketball
-Living the good life
+BALLIN	Living the good life
 BALLSY	Courageous, manly
-BAM	Below Average Mentality
-Exclamation of happiness
+BAM	Exclamation of happiness
 BAMA	Person lacking style
 BAMN	By Any Means Necessary
 BANDWIDTH	Amount of data through an interface over time
-BANGER	Great party
-Old car
-Sausage
+BANGER	Great party, Old car
 BANGING	Very beautiful, sexy
 BANGTIDY	Sexy, fit
 BANJAX	Break, destroy
@@ -758,8 +732,7 @@ BATE	Obvious
 BATO	Dude (Spanish)
 BAU	Business As Usual
 BAY	Baby
-BB	Big Brother
-Be Back
+BB	Big Brother, Be Back
 BB4N	Bye-Bye For Now
 BBALL	Basketball
 BBAM	Be Back After Meal
@@ -813,8 +786,6 @@ BDRIP	Blu-ray Disc RIP
 BDU	Brain Dead User
 Battle Dress Uniform
 BEAK	Nose
-Insult
-To Steal
 BEANS	Ecstacy
 BEAR	Large man with body hair
 BEAST	Person/thing that is good, awesome
@@ -824,14 +795,13 @@ BEBE	Babe
 BEBO	A social networking site
 BEEF	Problem, fight, argument
 BEF	Best Enemies Forever
-Best Email Friend
 BEG	Big Evil Grin
 BEH	Expression of disinterest, IDC
 BELF	Blood Elf (WOW)
 BELLIG	Belligerant (when drunk)
 BENJAMIN	$100 bill
 BENT	Dishonest, corrupt
-BENZ	
+BENZ	Mercedes Benz 
 BER	Beyond Economical Repair
 BERK	Idiot, fool
 BESITOS	Little kisses (Spanish)
@@ -842,19 +812,15 @@ BESTIE	Best Friend
 BESTY	Best Friend
 BET	Black Entertainment Television
 BETA	Pre-release version
-Better
 BEWB	A woman's breast
 BF	Boyfriend
-Best Friend
 BF2	Battlefield 2 (game)
 BF4L	Best Friends For Life
 BFA	Best Friends Always
-BFAB	Born From A Boombox
-Back For A Bit
+BFAB	Back For A Bit
 BFAM	Brother From Another Mother
 BFB	Better From Behind
 BFF	Best Friends Forever
-Big Fat Friend/Female
 BFF4L	Best Friend Forever For Life
 BFFAE	Best Friends Forever And Ever
 Best Friends For All Eternity
