@@ -1,0 +1,12 @@
+https://www.socialmediatoday.com/news/get-out-your-twittonary-twitter-abbreviations-you-must-know/454407/
+https://www.noslang.com/dictionary/
+https://web.archive.org/web/20140623010444/http://www.internetslangs.net/
+https://web.archive.org/web/20140628170358/http://www.internetslangs.net/all.php
+
+The Sentiment and Emotion Lexicons 
+Copyright: (C) 2016 National Research Council Canada (NRC)
+Contact: Saif M. Mohammad (saif.mohammad@nrc-cnrc.gc.ca), 
+Senior Research Officer, National Research Council Canada
+The Sentiment and Emotion Lexicons is a collection of lexicons that was entirely created by the experts of the National Research Council of Canada. Developed with a wide range of applications, this lexicon collection can be used in a multitude of contexts such as sentiment analysis, product marketing, consumer behaviour and even political campaign analysis.
+
+The technology uses a list of words that help identify emotions, sentiment, as well as analyzing hashtags, emoticons and word-colour associations. The lexicons contain entries for English words, and can be used to analyze English texts. Also provided are translations of the entries in the NRC Emotion Lexicon in 105 other languages, including French, Arabic, Chinese, and Spanish.
